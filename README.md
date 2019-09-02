@@ -1,6 +1,8 @@
 # 📦 parcel-plugin-nodegui
 > Use and bundle assets with your nodegui app
 
+**This repository has moved to a new home under the nodegui org - [Click Here](https://github.com/nodegui/parcel-plugin-nodegui)**
+
 ## General
 This plugin allows you to import actual assets, such as css and image files, into your NodeGUI app and utilize them in your app.
 
